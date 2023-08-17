@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CustomerNode",
+			"path": "../CustomerNode"
+		},
+		{
+			"name": "SequlizeCrud",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
